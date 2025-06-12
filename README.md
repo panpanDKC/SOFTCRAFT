@@ -3,10 +3,11 @@
 This repo exists for the use of Software&Craftmanship course
 
 Group members:
-ines.metiba
-nicolas.bonnin
-sam.esber
-clery.pelvillain
+
+-   ines.metiba
+-   nicolas.bonnin
+-   sam.esber
+-   clery.pelvillain
 
 ---
 
